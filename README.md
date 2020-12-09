@@ -1,13 +1,22 @@
 # Thinkpad-E450-OpenCore
- HackInTosh - OpenCore 0.5.7
+ HackInTosh - OpenCore 0.6.3
+ 
+ MacOS version: 10.15.7 (19H15) - Catalina
 
-Working:
+## [中文说明](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/README-CN.md)
+
+## Working:
 - HD 5500
 - TrackPad, trackpoint.
 - Ethernet
-
-Not working:
-- HDMI
 - Sound
+- Hotkey (Volume, Brightness)
+- WIFI
+- Bluetooth
+
+## Not working:
 - Battery Status
 - ...
+
+## ScreenShot:
+![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot1.png)
