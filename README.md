@@ -12,7 +12,7 @@
 - Sound
 - Hotkey (Volume, Brightness)
 - WIFI
-- Bluetooth
+- Bluetooth
 
 ## Not working:
 - Battery Status
