@@ -1,7 +1,7 @@
 # Thinkpad-E450-OpenCore
- HackInTosh - OpenCore 0.6.3
+ HackInTosh - OpenCore 0.6.8
  
- MacOS version: 11.1 (20C69) - BigSur
+ MacOS version: 11.2.3 (20D91) - BigSur
 
 ## [中文说明](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/README-CN.md)
 
@@ -19,4 +19,4 @@
 - ...
 
 ## ScreenShot:
-![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot2.png)
+![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot3.png)
