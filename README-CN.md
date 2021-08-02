@@ -1,7 +1,7 @@
 # Thinkpad-E450-OpenCore
- HackInTosh - OpenCore 0.6.8
+ HackInTosh - OpenCore 0.7.1
  
- MacOS version: 11.2.3 (20D91) - BigSur
+ MacOS version: 11.5.1 (20G80) - BigSur
 
 ## 正常使用：
 
@@ -12,4 +12,4 @@
 - 电量百分比现实正常，电池充电状态插拔切换状态慢。
 
 ## 截图:
-![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot3.png)
+![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot4.png)
