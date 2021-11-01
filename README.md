@@ -1,7 +1,7 @@
 # Thinkpad-E450-OpenCore
- HackInTosh - OpenCore 0.7.1
+ HackInTosh - OpenCore 0.7.4
  
- MacOS version: 11.5.1 (20G80) - BigSur
+ MacOS version: 11.6 (20G165) - BigSur
 
 ## [中文说明](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/README-CN.md)
 
@@ -13,10 +13,11 @@
 - Hotkey (Volume, Brightness)
 - WIFI
 - Bluetooth
+- HDMI
 
 ## Not working:
 - Battery Status
 - ...
 
 ## ScreenShot:
-![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot4.png)
+![image](https://github.com/cyqxyy/Thinkpad-E450-OpenCore/blob/master/ScreenShot/ScreenShot5.png)
